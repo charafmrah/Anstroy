@@ -1,6 +1,6 @@
 <!-- ![Aus Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width='40' align="left"/><h2>Hey there! I'm Aus</h2>
+<img alt="Night Coding" src="https://66.media.tumblr.com/4334a9b0943ea9582ef5a6525bbfe7bc/tumblr_mm32b2oKVQ1rfjowdo1_500.gif" width='100' align="left"/><h2>Hey there! I'm Aus</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
